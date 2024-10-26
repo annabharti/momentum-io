@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite vercel",
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
     "test:unit": "vitest",
@@ -22,6 +23,7 @@
   },
   "devDependencies": {
     "@tsconfig/node20": "^20.1.4",
+    "@typescript-eslint/parser": "8.11.0",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^20.16.11",
     "@vitejs/plugin-vue": "^5.1.4",
@@ -37,6 +39,7 @@
     "eslint-plugin-vue": "^9.29.0",
     "jsdom": "^25.0.1",
     "npm-run-all2": "^6.2.3",
+    "pinia": "^2.2.4",
     "prettier": "^3.3.3",
     "start-server-and-test": "^2.0.8",
     "typescript": "~5.5.4",
