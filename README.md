@@ -20,13 +20,14 @@ Following were not implemented due to initial focus on becoming familiar with Vu
     - Sanitizing input values
 
 Currently the state for `loadedLaunches` in the `launchStore` is being set to have duplicate proxy values. This was the issue I was last trying to resolve.
+* App was tested by running locally
 
 ## Preview App
 https://vue-project-qgd3vxhmd-annabhartis-projects.vercel.app
 
-## Running the app
+## Running Locally
 Use `npm run dev` to start local development
 App hosted on port 5173
 
-## Running tests
+## Running Tests
 Use `npm run test:unit` to run unit tests
