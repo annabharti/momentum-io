@@ -1,3 +1,5 @@
+/* This file was modified to change tabs to Home and Create Launch. The title was also changed */
+
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
 import Title from './components/Title.vue'
