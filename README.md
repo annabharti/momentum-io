@@ -21,6 +21,7 @@ Following were not implemented due to initial focus on becoming familiar with Vu
 
 Currently the state for `loadedLaunches` in the `launchStore` is being set to have duplicate proxy values. This was the issue I was last trying to resolve.
 * App was tested by running locally
+* The re-route to 'Launch Details' looks to be broken in Vercel but works when running the app locally. Needs investigation
 
 ## Preview App
  https://vue-project-q3a2njxd9-annabhartis-projects.vercel.app
