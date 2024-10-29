@@ -23,7 +23,7 @@ Currently the state for `loadedLaunches` in the `launchStore` is being set to ha
 * App was tested by running locally
 
 ## Preview App
-https://vue-project-qgd3vxhmd-annabhartis-projects.vercel.app
+ https://vue-project-q3a2njxd9-annabhartis-projects.vercel.app
 
 ## Running Locally
 Use `npm run dev` to start local development
